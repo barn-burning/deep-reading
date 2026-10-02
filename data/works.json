@@ -64,6 +64,12 @@
         "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 1-2 공개 교과서",
+        "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -96,6 +102,12 @@
         "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
         "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
         "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 1-1 공개 교과서",
+        "url": "https://fliphtml5.com/jjvh/qhdj/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-1_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
@@ -282,6 +294,66 @@
         "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
         "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
         "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "starlit-night-na-taeju",
+    "title": "별밤에",
+    "author": "나태주",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 1-1 공개 교과서",
+        "url": "https://fliphtml5.com/jjvh/qhdj/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-1_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "well-prepared-words-lee-haein",
+    "title": "잘 준비된 말을",
+    "author": "이해인",
+    "genre": "수필",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 1-1 공개 교과서",
+        "url": "https://fliphtml5.com/jjvh/qhdj/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-1_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "secret-zoo-son-jaegon",
+    "title": "해치지 않아",
+    "author": "손재곤",
+    "genre": "영화",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 1-2 공개 교과서",
+        "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "jump-rope-seong-nayeon",
+    "title": "줄 넘기",
+    "author": "성나연",
+    "genre": "영화",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 1-2 공개 교과서",
+        "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
