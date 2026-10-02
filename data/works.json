@@ -16,6 +16,12 @@
         "url": "https://www.changbi.com/BookDetail?bookid=4473",
         "sourceType": "publisher",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -504,6 +510,180 @@
         "label": "『아이 캔 스피크』 영상대본집 서지",
         "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122402682",
         "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "new-road-yun-dongju",
+    "title": "새로운 길",
+    "author": "윤동주",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "shower-hwang-sunwon",
+    "title": "소나기",
+    "author": "황순원",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "shedding-skin-francisco-jimenez",
+    "title": "껍질을 벗다",
+    "author": "프란시스코 히메네스",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "프란시스코의 나비 - YES24",
+        "url": "https://www.yes24.com/Product/Goods/141709783",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "said-backwards-jang-cheolmun",
+    "title": "거꾸로 말했다",
+    "author": "장철문",
+    "genre": "동시",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "거꾸로 말했다 - YES24",
+        "url": "https://www.yes24.com/product/goods/195458061",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "gift-seong-seokje",
+    "title": "선물",
+    "author": "성석제",
+    "genre": "수필",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "국어 교과서 작품 읽기: 중1 수필 - 창비",
+        "url": "https://www.changbi.com/BookDetail?bookid=3009",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "its-okay-jang-younghee",
+    "title": "괜찮아",
+    "author": "장영희",
+    "genre": "수필",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "국어 교과서 작품 읽기: 중1 수필 - 창비",
+        "url": "https://www.changbi.com/BookDetail?bookid=3009",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "bicycle-thief-park-wanseo",
+    "title": "자전거 도둑",
+    "author": "박완서",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-2 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "hong-gildong-jeon-heo-gyun",
+    "title": "홍길동전",
+    "author": "허균",
+    "genre": "고전소설",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-2 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "after-repairing-house-yi-gyubo",
+    "title": "집을 수리하고 나서",
+    "author": "이규보",
+    "genre": "고전수필",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-2 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "search-not-search-lee-o-young",
+    "title": "검색이 아니라 사색이다",
+    "author": "이어령",
+    "genre": "수필",
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-2 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
+        "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
     ],
