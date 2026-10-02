@@ -1,0 +1,129 @@
+[
+  {
+    "id": "kr-2022-middle-1-1-visang-parkhyunsook",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "비상교육",
+    "representativeAuthor": "박현숙",
+    "title": "중학교 국어 1-1",
+    "pages": 216,
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "문학과 삶에서 만나는 의미",
+        "domains": ["문학", "듣기·말하기"],
+        "subunits": [
+          { "subunitNo": "1-1", "title": "운율, 비유, 상징의 즐거움" },
+          { "subunitNo": "1-2", "title": "추론하며 듣기" }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "정보를 판단하는 힘",
+        "domains": ["읽기", "쓰기"],
+        "subunits": [
+          { "subunitNo": "2-1", "title": "요약하며 읽기" },
+          { "subunitNo": "2-2", "title": "정보를 전달하는 글 쓰기" }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "세상을 담는 언어, 우리를 잇는 매체",
+        "domains": ["문법", "매체"],
+        "subunits": [
+          { "subunitNo": "3-1", "title": "품사로 빚어낸 세상" }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "갈등을 푸는 지혜",
+        "domains": ["문학", "듣기·말하기"],
+        "subunits": [
+          { "subunitNo": "4-1", "title": "하늘은 맑건만" },
+          { "subunitNo": "4-2", "title": "토의하기" }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "비상서점 교과서 상세",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12316",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "한끝 교과서편 1-1 박현숙 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM11990&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "한끝 교과서편 1-1 박현숙 - YES24",
+        "url": "https://m.yes24.com/Goods/Detail/141228199",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
+  },
+  {
+    "id": "kr-2022-middle-1-2-visang-parkhyunsook",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "비상교육",
+    "representativeAuthor": "박현숙",
+    "title": "중학교 국어 1-2",
+    "pages": 208,
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "마음을 비추는 글",
+        "subunits": [
+          { "subunitNo": "1-1", "title": "멍키 스패너" },
+          { "subunitNo": "1-2", "title": "정서를 표현하는 글 쓰기" }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "다채로운 단어",
+        "subunits": [
+          { "subunitNo": "2-1", "title": "단어의 짜임과 새말" },
+          { "subunitNo": "2-2", "title": "어휘의 양상과 쓰임" }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "삶을 가꾸는 글의 힘",
+        "subunits": [
+          { "subunitNo": "3-1", "title": "추론하며 읽기" },
+          { "subunitNo": "3-2", "title": "주장하는 글 쓰기" }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "소통하며 이해하는 삶"
+      }
+    ],
+    "sources": [
+      {
+        "label": "비상서점 교과서 상세",
+        "url": "https://bookstore.visang.com/BookStore_View_new.asp?MGubun=M&b_code=BM12317",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "한끝 교과서편 1-2 박현숙 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12578&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
+  }
+]
