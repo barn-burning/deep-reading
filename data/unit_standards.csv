@@ -45,5 +45,4 @@ textbook_id,unit_no,subunit_no,standard_id,mapping_type,confidence,basis
 "kr-2022-middle-2-1-donga-namgungmin","2","2-1","9국05-04","publisher_explicit","high","교과서 차례가 '시와 화자'를 직접 제시"
 "kr-2022-middle-2-1-donga-namgungmin","2","2-2","9국05-04","publisher_explicit","high","교과서 차례가 '소설과 서술자'를 직접 제시"
 "kr-2022-middle-2-2-donga-namgungmin","1","1-2","9국05-05","publisher_explicit","high","교과서 차례가 '문학에 비친 세상'을 직접 제시"
-"kr-2022-middle-2-2-donga-namgungmin","4","4-1","9국05-01","inferred_unit_alignment","medium","반어·역설 표현 효과를 다루는 문학 표현 단원"
-"kr-2022-middle-2-2-donga-namgungmin","4","4-2","9국05-05","inferred_unit_alignment","medium","풍자를 통해 사회 현실을 비추는 문학 맥락 학습 가능성이 높음"
+"kr-2022-middle-2-2-donga-namgungmin","1","1-2","9국05-05","publisher_explicit","high","차례의 학기 독서 활동이 '사회·문화적 상황이 드러나는 문학 작품 감상하기'를 직접 명시"
