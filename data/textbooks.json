@@ -705,5 +705,161 @@
       }
     ],
     "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-1-1-donga-namgungmin",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "동아출판",
+    "representativeAuthor": "남궁민",
+    "title": "중학교 국어 1-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "만남, 설레는 시작",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "문학의 표현"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "매체를 통한 만남"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "마음을 담은 소통",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "어휘의 세계"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "존중하는 말하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "정보, 간추리고 알려 주기",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "효과적으로 요약하기"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "정보를 전달하는 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "성장하는 우리, 표현하는 나",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "문학 속 성장"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "경험과 표현"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-1 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-1-2-donga-namgungmin",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "동아출판",
+    "representativeAuthor": "남궁민",
+    "title": "중학교 국어 1-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "알리고 싶은 생각, 알리고 싶은 생각",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "추론하며 듣기"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "주장하는 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "함께 하는 세상",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "문학 속 갈등"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "문제 해결을 위한 토의"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "단어의 갈래와 짜임",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "품사의 종류와 특성"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "단어의 짜임"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "능동적으로 보고 읽기",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "추론하며 읽기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "비교하며 보기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "동아출판 중학교 국어 1-2 평가문제집 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
   }
 ]
