@@ -1,16 +1,18 @@
 {
   "generatedAt": "2026-10-02",
   "scope": "2022 개정 중학교 1학년 국어",
+  "qaVersion": "v0.1-qa1",
   "textbooks": {
     "records": 20,
     "coverageRows": 20,
     "completedCoverageRows": 20
   },
   "works": {
-    "catalogRecords": 53,
+    "catalogRecords": 52,
     "mappedRelations": 71,
     "uniqueMappedWorks": 52,
-    "repeatedWorks": 10
+    "repeatedWorks": 10,
+    "orphanWorks": 0
   },
   "placementCounts": {
     "main": 41,
