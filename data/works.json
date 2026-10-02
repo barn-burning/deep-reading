@@ -76,6 +76,12 @@
         "url": "https://fliphtml5.com/ukmkq/nxef/",
         "sourceType": "other",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 1-2 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/149403090",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -366,6 +372,138 @@
         "label": "창비교육 중학교 국어 1-2 공개 교과서",
         "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
         "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "cockscomb-kim-seonu",
+    "title": "맨드라미",
+    "author": "김선우",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "farewell-stone-wall-kim-bonggun",
+    "title": "돌담장의 안녕",
+    "author": "김봉군",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "one-briquette-ahn-dohyun",
+    "title": "연탄 한 장",
+    "author": "안도현",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "beautiful-scar-lee-cheongjun",
+    "title": "아름다운 흉터",
+    "author": "이청준",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "baby-general-uturi-anonymous",
+    "title": "아기 장수 우투리",
+    "author": "작자 미상",
+    "genre": "설화",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "curtain-call-jo-uri",
+    "title": "커튼콜",
+    "author": "조우리",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비 『커튼콜』 소개",
+        "url": "https://www.changbi.com/authorDetail?authorid=4258",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "one-day-bicycle-entered-my-life-seong-seokje",
+    "title": "어느 날 자전거가 내 삶 속으로 들어왔다",
+    "author": "성석제",
+    "genre": "수필",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "i-can-speak-kang-yoo",
+    "title": "아이 캔 스피크",
+    "author": "강지연·유승희",
+    "genre": "영상대본",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-2 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/149403090",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "『아이 캔 스피크』 영상대본집 서지",
+        "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122402682",
+        "sourceType": "bookstore",
         "retrievedAt": "2026-10-02"
       }
     ],
