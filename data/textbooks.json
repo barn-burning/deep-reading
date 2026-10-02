@@ -1724,5 +1724,174 @@
       }
     ],
     "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-2-1-jihak-seohyeok",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "지학사",
+    "representativeAuthor": "서혁",
+    "title": "중학교 국어 2-1",
+    "pages": 228,
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "세상을 보는 눈, 이야기를 전하는 목소리",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "시의 화자"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "소설의 서술자"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "설득력 있는 논증, 이해하기 쉬운 설명",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "논증 방법 파악하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "설명 방법 파악하며 읽고 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "의미를 담은 표현, 매체로 보는 세상",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "매체 자료 분석하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "문학 속의 세상, 공감하는 우리",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "문학으로 만나는 삶"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "마음을 어루만지는 대화"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "지학사 중학 교과서 국어 2-1/2-2 (2022 개정)",
+        "url": "https://www.jihak.co.kr/textbook/middle-school",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "지학사 중학교 국어 2-1(서혁) 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/174047940",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "kr-2022-middle-2-2-jihak-seohyeok",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "지학사",
+    "representativeAuthor": "서혁",
+    "title": "중학교 국어 2-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "다채로운 표현, 함께 만드는 영상",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "개성적인 표현"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "영상으로 표현하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "슬기로운 독서, 계획적인 발표",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "능동적으로 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "점검하며 발표하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "체계적인 음운, 과학적인 문자",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "우리말 음운 체계"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "우리말 문자 체계"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "비판적인 읽기, 돌아보며 글 쓰기",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "복합양식 자료나 글 평가하며 읽기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "복합양식 자료 활용하여 점검·조정하며 글 쓰기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "지학사 중학 교과서 국어 2-1/2-2 (2022 개정)",
+        "url": "https://www.jihak.co.kr/textbook/middle-school",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "지학사 중학교 국어 2-2(서혁) 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/188838142",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
   }
 ]
