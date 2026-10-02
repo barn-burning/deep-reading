@@ -2,6 +2,7 @@
 
 import { FormEvent, useEffect, useMemo, useState } from "react";
 import { firstQuestion, nextQuestion, ThoughtNode } from "@/lib/questionEngine";
+import { findWork, works } from "@/lib/workCatalog";
 
 type Message = {
   id: string;
@@ -13,6 +14,9 @@ type Session = {
   work: string;
   author: string;
   level: "middle" | "high";
+  workId?: string;
+  genre?: string;
+  inquiryAxes?: string[];
 };
 
 const quickStarts = ["재밌었어", "답답했어", "슬펐어", "이상했어", "어려웠어", "잘 모르겠어"];
@@ -48,6 +52,23 @@ export default function Home() {
     );
   }, [session, messages, nodes]);
 
+  const matchedWork = useMemo(
+    () => (work.trim() ? findWork(work, author) : null),
+    [work, author]
+  );
+
+  const suggestions = useMemo(() => {
+    const query = work.trim().toLowerCase();
+    if (!query) return works.slice(0, 6);
+    return works
+      .filter(
+        (item) =>
+          item.title.toLowerCase().includes(query) ||
+          (item.author ?? "").toLowerCase().includes(query)
+      )
+      .slice(0, 6);
+  }, [work]);
+
   const progressLabel = useMemo(() => {
     if (nodes.length === 0) return "탐구 시작";
     if (nodes.length < 3) return "생각 꺼내기";
@@ -55,16 +76,35 @@ export default function Home() {
     return "생각 정교화";
   }, [nodes.length]);
 
+  function chooseWork(title: string, workAuthor?: string) {
+    setWork(title);
+    if (workAuthor) setAuthor(workAuthor);
+  }
+
   function startSession(e: FormEvent) {
     e.preventDefault();
     if (!work.trim()) return;
-    const next: Session = { work: work.trim(), author: author.trim(), level: schoolLevel };
+
+    const known = findWork(work, author);
+    const next: Session = {
+      work: work.trim(),
+      author: author.trim() || known?.author || "",
+      level: schoolLevel,
+      workId: known?.id,
+      genre: known?.genre,
+      inquiryAxes: known?.map?.inquiryAxes,
+    };
+
     setSession(next);
     setMessages([
       {
         id: crypto.randomUUID(),
         role: "assistant",
-        text: firstQuestion(),
+        text: firstQuestion({
+          title: next.work,
+          genre: next.genre,
+          inquiryAxes: next.inquiryAxes,
+        }),
       },
     ]);
     setNodes([]);
@@ -74,7 +114,11 @@ export default function Home() {
     const text = (raw ?? input).trim();
     if (!text || !session) return;
 
-    const result = nextQuestion(text);
+    const result = nextQuestion(text, {
+      title: session.work,
+      genre: session.genre,
+      inquiryAxes: session.inquiryAxes,
+    });
 
     setMessages((prev) => [
       ...prev,
@@ -112,16 +156,49 @@ export default function Home() {
               <input
                 value={work}
                 onChange={(e) => setWork(e.target.value)}
-                placeholder="예: 난장이가 쏘아올린 작은 공"
+                placeholder="작품명을 입력해보세요"
                 autoFocus
               />
             </label>
+
+            {suggestions.length > 0 && (
+              <div className="work-suggestions">
+                {suggestions.map((item) => (
+                  <button
+                    type="button"
+                    key={item.id}
+                    onClick={() => chooseWork(item.title, item.author)}
+                    className={matchedWork?.id === item.id ? "selected" : ""}
+                  >
+                    <strong>{item.title}</strong>
+                    <span>{item.author ?? "작가 미상"} · {item.genre ?? "갈래 미분류"}</span>
+                  </button>
+                ))}
+              </div>
+            )}
+
+            {matchedWork && (
+              <div className="known-work">
+                <div>
+                  <span className="known-label">교과서 작품 데이터에서 찾았어요</span>
+                  <strong>{matchedWork.title} · {matchedWork.author}</strong>
+                </div>
+                {matchedWork.map?.inquiryAxes?.length ? (
+                  <div className="axis-preview">
+                    {matchedWork.map.inquiryAxes.slice(0, 4).map((axis) => (
+                      <span key={axis}>{axis}</span>
+                    ))}
+                  </div>
+                ) : null}
+              </div>
+            )}
+
             <label>
               <span>작가 <small>선택</small></span>
               <input
                 value={author}
                 onChange={(e) => setAuthor(e.target.value)}
-                placeholder="예: 조세희"
+                placeholder="작가를 알고 있다면 적어주세요"
               />
             </label>
 
@@ -141,8 +218,7 @@ export default function Home() {
           </form>
 
           <p className="prototype-note">
-            이 버전은 발문 원리를 검증하기 위한 규칙 기반 프로토타입입니다.
-            작품 원문은 저장하거나 제공하지 않습니다.
+            작품 전문은 저장하지 않습니다. 현재는 교과서 수록 정보와 열린 탐구 축만 활용합니다.
           </p>
         </section>
       </main>
@@ -157,6 +233,7 @@ export default function Home() {
           <div className="work-title">
             {session.author ? `${session.author} · ` : ""}{session.work}
           </div>
+          {session.workId && <div className="known-session">교과서 작품 데이터 연결됨</div>}
         </div>
         <div className="top-actions">
           <span className="progress">{progressLabel}</span>
@@ -220,6 +297,18 @@ export default function Home() {
               </div>
               <span className="node-count">{nodes.length}</span>
             </div>
+
+            {session.inquiryAxes?.length ? (
+              <div className="session-axes">
+                <span>이 작품에서 열어둘 탐구 축</span>
+                <div>
+                  {session.inquiryAxes.slice(0, 4).map((axis) => (
+                    <b key={axis}>{axis}</b>
+                  ))}
+                </div>
+                <p>정답이 아니라, 막혔을 때 꺼내볼 수 있는 방향입니다.</p>
+              </div>
+            ) : null}
 
             {nodes.length === 0 ? (
               <div className="empty-flow">
