@@ -896,6 +896,12 @@
         "url": "https://www.yes24.com/product/goods/147561231",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "지학사 중학교 국어 2-1(서혁) 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/174047940",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary",
@@ -1076,5 +1082,69 @@
     ],
     "reviewStatus": "verified_secondary",
     "genreGroup": "소설"
+  },
+  {
+    "id": "small-silver-fish-kim-sunwoo",
+    "title": "작지만 온몸인 은빛 물고기처럼",
+    "author": "김선우",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "지학사 중학교 국어 2-1(서혁) 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/174047940",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "malmoi-eom-yuna",
+    "title": "말모이",
+    "author": "엄유나",
+    "genre": "영화 시나리오",
+    "genreGroup": "영상",
+    "sources": [
+      {
+        "label": "지학사 중학교 국어 2-1(서혁) 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/174047940",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "star-jeong-jingyu",
+    "title": "별",
+    "author": "정진규",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "지학사 중학교 국어 2-2(서혁) 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/188838142",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "yangbanjeon-park-jiwon",
+    "title": "양반전",
+    "author": "박지원",
+    "genre": "고전소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "지학사 중학교 국어 2-2(서혁) 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/188838142",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
   }
 ]
