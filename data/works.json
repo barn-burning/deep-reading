@@ -52,6 +52,18 @@
         "url": "https://www.changbi.com/BookDetail?bookid=3105",
         "sourceType": "publisher",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "지학사 중학교 국어 1-1(서혁) 자습서 목차",
+        "url": "https://www.jihak.co.kr/reference-book/middle-school/6AxNMRHpObwdKbQv",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -71,6 +83,18 @@
       {
         "label": "중학교 국어 1-2 자습서(박현숙) 목차",
         "url": "https://kobic.net/book/bookInfo/view.do?isbn=9791175900158",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "지학사 중학교 국어 1-2(서혁) 자습서 목차",
+        "url": "https://www.jihak.co.kr/reference-book/middle-school/GvsXfaXnLKl4wD3N",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
@@ -145,5 +169,122 @@
       }
     ],
     "reviewStatus": "partial"
+  },
+  {
+    "id": "our-two-kim-junhyeon",
+    "title": "우리 둘이",
+    "author": "김준현",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "지학사 중학교 국어 1-1(서혁) 자습서 목차",
+        "url": "https://www.jihak.co.kr/reference-book/middle-school/6AxNMRHpObwdKbQv",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "meteor-oh-seyeong",
+    "title": "유성",
+    "author": "오세영",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "ouga-yun-seondo",
+    "title": "오우가",
+    "author": "윤선도",
+    "genre": "시조",
+    "sources": [
+      {
+        "label": "지학사 중학교 국어 1-1(서혁) 자습서 목차",
+        "url": "https://www.jihak.co.kr/reference-book/middle-school/6AxNMRHpObwdKbQv",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "little-prince-saint-exupery",
+    "title": "어린왕자",
+    "author": "앙투안 드 생텍쥐페리",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kieuk-jang-giha",
+    "title": "키읔",
+    "author": "장기하",
+    "genre": "노랫말",
+    "sources": [
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "extraordinary-attorney-woo-moon-jiwon",
+    "title": "이상한 변호사 우영우",
+    "author": "문지원",
+    "genre": "시나리오",
+    "sources": [
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "lock-clicks-open-jo-jaedo",
+    "title": "자물쇠가 철컥 열리는 순간",
+    "author": "조재도",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
+        "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
   }
 ]
