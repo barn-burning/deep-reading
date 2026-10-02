@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-10-02",
+  "scope": "2022 개정 중학교 2학년 국어",
+  "qaVersion": "v0.2-qa1",
+  "textbooks": {
+    "records": 20,
+    "coverageRows": 20,
+    "completedCoverageRows": 20
+  },
+  "works": {
+    "mappedRelations": 65,
+    "uniqueMappedWorks": 46,
+    "repeatedWorks": 10
+  },
+  "placementCounts": {
+    "main": 54,
+    "supplementary": 11
+  },
+  "genreGroupRelationCounts": {
+    "시": 31,
+    "소설": 31,
+    "영상": 1,
+    "수필": 2
+  },
+  "mappedRelationsByPublisher": {
+    "지학사": 5,
+    "해냄에듀": 8,
+    "미래엔": 7,
+    "비상교육": 12,
+    "천재교과서": 16,
+    "창비교육": 6,
+    "동아출판": 11
+  },
+  "curriculum": {
+    "unitStandardRelations": 23,
+    "workStandardContexts": 44,
+    "standardCounts": {
+      "9국05-04": 14,
+      "9국05-05": 6,
+      "9국05-06": 3
+    },
+    "mappingTypeCounts": {
+      "inferred_unit_alignment": 18,
+      "publisher_explicit": 5
+    }
+  },
+  "repeatedWorks": [
+    {
+      "workId": "yangbanjeon-park-jiwon",
+      "title": "양반전",
+      "author": "박지원",
+      "count": 6
+    },
+    {
+      "workId": "camellia-kim-yujeong",
+      "title": "동백꽃",
+      "author": "김유정",
+      "count": 4
+    },
+    {
+      "workId": "ordeal-of-two-generations-ha-geunchan",
+      "title": "수난이대",
+      "author": "하근찬",
+      "count": 4
+    },
+    {
+      "workId": "distant-future-kim-sowol",
+      "title": "먼 후일",
+      "author": "김소월",
+      "count": 3
+    },
+    {
+      "workId": "toad-catches-fly-anonymous",
+      "title": "두꺼비 파리를 물고",
+      "author": "작자 미상",
+      "count": 2
+    },
+    {
+      "workId": "star-jeong-jingyu",
+      "title": "별",
+      "author": "정진규",
+      "count": 2
+    },
+    {
+      "workId": "fishy-smell-ham-minbok",
+      "title": "비린내라뇨!",
+      "author": "함민복",
+      "count": 2
+    },
+    {
+      "workId": "mom-worry-gi-hyeongdo",
+      "title": "엄마 걱정",
+      "author": "기형도",
+      "count": 2
+    },
+    {
+      "workId": "nine-greater-than-ten-lee-mungu",
+      "title": "열보다 큰 아홉",
+      "author": "이문구",
+      "count": 2
+    },
+    {
+      "workId": "hong-gildong-jeon-heo-gyun",
+      "title": "홍길동전",
+      "author": "허균",
+      "count": 2
+    }
+  ]
+}
