@@ -22,6 +22,12 @@
         "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 정호웅 1-1 목차",
+        "url": "https://www.yes24.com/product/goods/141399737",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -88,6 +94,12 @@
         "url": "https://www.yes24.com/product/goods/149403090",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 정호웅 1-2 목차",
+        "url": "https://www.ypbooks.co.kr/books/202505294564115199",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -132,6 +144,12 @@
         "label": "창비교육 중학교 국어 1-1 공개 교과서",
         "url": "https://fliphtml5.com/jjvh/qhdj/",
         "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 정호웅 1-1 목차",
+        "url": "https://www.yes24.com/product/goods/141399737",
+        "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
     ],
@@ -257,6 +275,12 @@
       {
         "label": "체크체크 국어 1-2 갈래별 문학 작품 목록(10종 교과서)",
         "url": "https://cdata2.chunjae.co.kr/webdata_110/chunjae/_CMS/BookData/Solution/2025/07/%2822%EA%B0%9C%EC%A0%95%29%EC%B2%B4%ED%81%AC%EA%B5%AD%EC%96%B4%28%EA%B3%B5%ED%86%B5%EC%84%9C%29_%E4%B8%AD1-2_PL_%EC%A0%95%EB%8B%B5.pdf",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 정호웅 1-1 목차",
+        "url": "https://www.yes24.com/product/goods/141399737",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
@@ -652,6 +676,12 @@
         "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "쏠북 비상 박영민 4-1 제재 정보",
+        "url": "https://solvook.com/products/3827958360238458166",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -752,6 +782,228 @@
       {
         "label": "미래엔 중학교 국어 1-2 평가문제집(민병곤)",
         "url": "https://www.yes24.com/product/goods/148870227",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 평가문제집 중학교 국어(신유식) 1-1 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12482&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "road-kim-jongsang",
+    "title": "길",
+    "author": "김종상",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "미래엔 평가문제집 중학교 국어(신유식) 1-1 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12482&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "camellia-kim-yujeong",
+    "title": "동백꽃",
+    "author": "김유정",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "미래엔 평가문제집 중학교 국어(신유식) 1-2 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12688&gotopage=",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "한끝 중학 국어 1-2 교과서편(박영민) 목차",
+        "url": "https://www.yes24.com/product/goods/147561231",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "spring-morning-choi-ilhwan",
+    "title": "봄날 아침",
+    "author": "최일환",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "온리원 중1-1 국어 비상(박영민) 강의목차",
+        "url": "https://www.only1.co.kr/lecture/lecture_view.asp?lp_idx=140238&menu_depth=tc0000",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "bluebird-maeterlinck",
+    "title": "파랑새",
+    "author": "모리스 마테를링크",
+    "genre": "희곡",
+    "sources": [
+      {
+        "label": "온리원 중1-1 국어 비상(박영민) 강의목차",
+        "url": "https://www.only1.co.kr/lecture/lecture_view.asp?lp_idx=140238&menu_depth=tc0000",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "i-am-bori-kim-jinyou",
+    "title": "나는 보리",
+    "author": "김진유",
+    "genre": "영화",
+    "sources": [
+      {
+        "label": "쏠북 비상 박영민 4-1 제재 정보",
+        "url": "https://solvook.com/products/3827958360238458166",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "beautiful-meteor-ebs",
+    "title": "아름다운 별똥별의 비밀",
+    "author": "EBS 오디오 콘텐츠 팀",
+    "genre": "비문학",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 1-2 교과서편(박영민) 목차",
+        "url": "https://www.yes24.com/product/goods/147561231",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "bachelor-fetch-fortune-anonymous",
+    "title": "복 타러 간 총각",
+    "author": "작자 미상",
+    "genre": "설화",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 1-2 교과서편(박영민) 목차",
+        "url": "https://www.yes24.com/product/goods/147561231",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "star-plucking-na-heedeok",
+    "title": "하늘의 별 따기",
+    "author": "나희덕",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 노미숙 1-1 목차",
+        "url": "https://www.yes24.com/Product/Goods/141399711",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "nature-great-teacher-kim-hagyeong",
+    "title": "자연은 위대한 스승",
+    "author": "김하경",
+    "genre": "수필",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 노미숙 1-1 목차",
+        "url": "https://www.yes24.com/Product/Goods/141399711",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "want-to-eat-watermelon-jang-jusik",
+    "title": "먹고 싶다, 수박",
+    "author": "장주식",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 노미숙 1-1 목차",
+        "url": "https://www.yes24.com/Product/Goods/141399711",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "tomorrow-to-tomorrow-kim-seonyeong",
+    "title": "내일은 내일에게",
+    "author": "김선영",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 노미숙 1-1 목차",
+        "url": "https://www.yes24.com/Product/Goods/141399711",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "paper-tile-lee-jungwan",
+    "title": "딱지",
+    "author": "이준관",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 노미숙 1-2 목차",
+        "url": "https://www.yes24.com/product/goods/147070670",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "four-pm-dalgona-lee-songhyeon",
+    "title": "오후 4시, 달고나",
+    "author": "이송현",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 노미숙 1-2 목차",
+        "url": "https://www.yes24.com/product/goods/147070670",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "long-long-night-ruri",
+    "title": "긴긴밤",
+    "author": "루리",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 교과서편 천재 정호웅 1-2 목차",
+        "url": "https://www.ypbooks.co.kr/books/202505294564115199",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
