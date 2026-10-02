@@ -541,6 +541,18 @@
         "url": "https://bookstore.visang.com/BookStore_view_new.asp?CateCode=&b_code=BM12537&gotopage=",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 중학교 국어 1-1 평가문제집(민병곤) 목차/강의목차",
+        "url": "https://junior.mbest.co.kr/lecture/lecture/view_lecture.asp?gID=1138098",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 중학교 국어 1-1 평가문제집 상세 목차",
+        "url": "https://saemodap.tistory.com/9541",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -683,6 +695,63 @@
       {
         "label": "동아출판 중학교 국어 1-2 평가문제집 목차",
         "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "hoo-hoo-hoo-seong-mijeong",
+    "title": "후후후",
+    "author": "성미정",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "미래엔 중학교 국어 1-1 평가문제집(민병곤) 목차/강의목차",
+        "url": "https://junior.mbest.co.kr/lecture/lecture/view_lecture.asp?gID=1138098",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 중학교 국어 1-1 평가문제집 상세 목차",
+        "url": "https://saemodap.tistory.com/9541",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "my-name-is-baekseok-yu-eunsil",
+    "title": "내 이름은 백석",
+    "author": "유은실",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "미래엔 중학교 국어 1-1 평가문제집 상세 목차",
+        "url": "https://saemodap.tistory.com/9541",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "corn-hit-and-run-park-sanggi",
+    "title": "옥수수 뺑소니",
+    "author": "박상기",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "미래엔 중학교 국어 1-2 평가문제집 상세 목차",
+        "url": "https://yoji.tistory.com/3870",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 중학교 국어 1-2 평가문제집(민병곤)",
+        "url": "https://www.yes24.com/product/goods/148870227",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
