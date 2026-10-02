@@ -549,5 +549,161 @@
       }
     ],
     "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-1-1-haenaem-kangyanghee",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "해냄에듀",
+    "representativeAuthor": "강양희",
+    "title": "중학교 국어 1-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "빛나는 표현",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "운율과 비유"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "상징"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "간추리고 알리고",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "요약하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "정보를 전달하는 글 쓰기"
+          },
+          {
+            "subunitNo": "2-3",
+            "title": "삶과 만나는 책 읽기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "읽고 쓰며 성장하는 삶",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "문학과 함께 성장하는 삶"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "정서 표현의 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "언어와 매체를 만나다",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "어휘의 양상과 올바른 언어생활"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "매체의 특성과 영향력"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-1 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/141732473",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-1-2-haenaem-kangyanghee",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "해냄에듀",
+    "representativeAuthor": "강양희",
+    "title": "중학교 국어 1-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "갈등에서 소통으로",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "갈등으로 읽는 문학"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "숨은 뜻을 찾아라",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "추론하며 이해하기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "매체를 통한 소통"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "단어야 놀자",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "단어의 갈래"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "단어의 짜임"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "더불어 살아가는 힘",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "문제 해결을 위한 토의"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "주장하는 글 쓰기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 1-2 자습서(강양희 교과서편) 목차",
+        "url": "https://www.yes24.com/product/goods/149403090",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
   }
 ]
