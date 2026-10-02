@@ -772,6 +772,12 @@
         "url": "https://www.yes24.com/product/goods/190873328",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 2-2 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/tayh/",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary",
@@ -919,6 +925,12 @@
         "label": "체크체크 중학 국어 천재 정호웅 2-1 목차",
         "url": "https://www.yes24.com/product/goods/174327315",
         "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 2-1 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/ulzw/",
+        "sourceType": "official_textbook",
         "retrievedAt": "2026-10-02"
       }
     ],
@@ -1708,6 +1720,114 @@
         "label": "체크체크 중학 국어 천재 정호웅 2-2 목차",
         "url": "https://www.yes24.com/product/goods/190873328",
         "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "small-seed-park-namjun",
+    "title": "작은 씨앗",
+    "author": "박남준",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 2-1 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/ulzw/",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "pretending-okay-kim-eung",
+    "title": "괜찮은 척",
+    "author": "김응",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 2-1 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/ulzw/",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "nine-greater-than-ten-lee-mungu",
+    "title": "열보다 큰 아홉",
+    "author": "이문구",
+    "genre": "수필",
+    "genreGroup": "수필",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 2-1 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/ulzw/",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "toad-catches-fly-anonymous",
+    "title": "두꺼비 파리를 물고",
+    "author": "작자 미상",
+    "genre": "사설시조",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 2-1 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/ulzw/",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "tree-and-shadow-byeon-eungyeong",
+    "title": "나무와 그림자",
+    "author": "변은경",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "미래엔 평가문제집 중등 국어 2-1(민병곤) 상세 목차",
+        "url": "https://dap1004.com/blog/2026/07/11/%ED%8F%89%EA%B0%80%EB%AC%B8%EC%A0%9C%EC%A7%91-%EC%A4%91%EB%93%B1-%EA%B5%AD%EC%96%B42-1%EB%AF%BC%EB%B3%91%EA%B3%A4-22-%EA%B0%9C%EC%A0%95-%EB%8B%B5%EC%A7%80/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "KOBIC 미래엔 중학 국어 2-1 평가문제집(민병곤) 서지/목차",
+        "url": "https://kobic.net/book/bookInfo/view.do?isbn=9791175480094",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "tteokbokki-on-thursday-mun-iso",
+    "title": "목요일엔 떡볶이를",
+    "author": "문이소",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "미래엔 평가문제집 중등 국어 2-1(민병곤) 상세 목차",
+        "url": "https://dap1004.com/blog/2026/07/11/%ED%8F%89%EA%B0%80%EB%AC%B8%EC%A0%9C%EC%A7%91-%EC%A4%91%EB%93%B1-%EA%B5%AD%EC%96%B42-1%EB%AF%BC%EB%B3%91%EA%B3%A4-22-%EA%B0%9C%EC%A0%95-%EB%8B%B5%EC%A7%80/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "KOBIC 미래엔 중학 국어 2-1 평가문제집(민병곤) 서지/목차",
+        "url": "https://kobic.net/book/bookInfo/view.do?isbn=9791175480094",
+        "sourceType": "official_textbook",
         "retrievedAt": "2026-10-02"
       }
     ],
