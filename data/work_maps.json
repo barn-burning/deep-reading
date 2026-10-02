@@ -1,0 +1,79 @@
+[
+  {
+    "workId": "march-oh-gyuwon",
+    "basis": "textbook_context",
+    "inquiryAxes": [
+      "운율",
+      "비유",
+      "상징",
+      "화자의 시선"
+    ],
+    "note": "교과서 단원 '운율, 비유, 상징의 즐거움'을 바탕으로 한 탐구 축. 작품 해설 정답이 아님."
+  },
+  {
+    "workId": "one-beloved-star-lee-seongseon",
+    "basis": "textbook_context",
+    "inquiryAxes": [
+      "운율",
+      "비유",
+      "상징",
+      "정서의 변화"
+    ],
+    "note": "교과서 단원 맥락을 바탕으로 한 탐구 축. 작품 해설 정답이 아님."
+  },
+  {
+    "workId": "clear-sky-hyeondeok",
+    "basis": "textbook_context",
+    "inquiryAxes": [
+      "갈등의 진행",
+      "인물의 선택",
+      "행동의 이유",
+      "갈등 해결 방식"
+    ],
+    "note": "교과서 대단원 '갈등을 푸는 지혜'를 바탕으로 한 탐구 축. 작품 해설 정답이 아님."
+  },
+  {
+    "workId": "monkey-spanner-jin-hyeongmin",
+    "basis": "genre_and_textbook_context",
+    "inquiryAxes": [
+      "인물의 감정",
+      "행동의 이유",
+      "관계의 변화",
+      "기억에 남는 장면"
+    ],
+    "note": "소설 갈래와 교과서 단원 '마음을 비추는 글'에 맞춘 일반 탐구 축."
+  },
+  {
+    "workId": "oblique-jeong-hyeonjong",
+    "basis": "genre_and_textbook_context",
+    "inquiryAxes": [
+      "표현 방식",
+      "비유와 상징",
+      "화자의 시선",
+      "정서"
+    ],
+    "note": "시 갈래와 교과서 수록 맥락을 바탕으로 한 일반 탐구 축."
+  },
+  {
+    "workId": "four-seasons-santa-kim-jiwon",
+    "basis": "genre_and_textbook_context",
+    "inquiryAxes": [
+      "경험과 정서",
+      "글쓴이의 관점",
+      "인상적인 장면",
+      "표현의 효과"
+    ],
+    "note": "수필 갈래에 맞춘 일반 탐구 축."
+  },
+  {
+    "workId": "the-world-of-us-yoon-gaeun",
+    "basis": "media_and_textbook_context",
+    "inquiryAxes": [
+      "인물 관계",
+      "갈등",
+      "장면의 의미",
+      "다른 인물의 관점"
+    ],
+    "note": "영상 작품과 교과서 단원 '소통하며 이해하는 삶'을 바탕으로 한 탐구 축."
+  }
+]
