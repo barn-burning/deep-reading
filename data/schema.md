@@ -95,3 +95,42 @@ session_thought_nodes
 ```
 
 중요: `inquiry_axes`는 정답 해설을 저장하는 테이블이 아니라, 작품을 탐구할 수 있는 열린 관점을 저장하는 계층으로 설계합니다.
+
+
+## curriculum_standard
+
+2022 개정 교육과정의 성취기준 원문을 저장합니다.
+
+```ts
+type CurriculumStandard = {
+  id: string
+  domain: string
+  schoolBand: string
+  statement: string
+  tags?: string[]
+  source: {
+    title: string
+    fileId?: string
+    url?: string
+    retrievedAt: string
+  }
+}
+```
+
+## unit_standard
+
+교과서 단원과 성취기준의 관계입니다. 출판사가 명시한 대응과 데이터셋이 단원명/구성으로 추론한 대응을 반드시 구분합니다.
+
+```ts
+type UnitStandard = {
+  textbookId: string
+  unitNo: number
+  subunitNo: string
+  standardId: string
+  mappingType: "publisher_explicit" | "inferred_unit_alignment"
+  confidence: "high" | "medium" | "low"
+  basis: string
+}
+```
+
+중요: `inferred_unit_alignment`는 공식적인 출판사 교육과정 대응표가 아니라, 공개된 단원명과 교육과정 성취기준의 의미적 대응을 기록한 분석 계층입니다.
