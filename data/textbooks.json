@@ -3348,5 +3348,131 @@
     "schoolLevel": "middle",
     "grade": 2,
     "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-3-1-miraen-shinyusik",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 3,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "미래엔",
+    "representativeAuthor": "신유식",
+    "title": "중학교 국어 3-1",
+    "units": [],
+    "sources": [
+      {
+        "label": "미래엔 2022 개정 중학교 국어 3 신유식",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=10047",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
+  },
+  {
+    "id": "kr-2022-middle-3-2-miraen-shinyusik",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 3,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "미래엔",
+    "representativeAuthor": "신유식",
+    "title": "중학교 국어 3-2",
+    "units": [],
+    "sources": [
+      {
+        "label": "미래엔 2022 개정 중학교 국어 3 신유식",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=10047",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
+  },
+  {
+    "id": "kr-2022-middle-3-1-miraen-minbyeonggon",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 3,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "미래엔",
+    "representativeAuthor": "민병곤",
+    "title": "중학교 국어 3-1",
+    "units": [],
+    "sources": [
+      {
+        "label": "미래엔 2022 개정 중학교 국어 3 민병곤",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=10048",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
+  },
+  {
+    "id": "kr-2022-middle-3-2-miraen-minbyeonggon",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 3,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "미래엔",
+    "representativeAuthor": "민병곤",
+    "title": "중학교 국어 3-2",
+    "units": [],
+    "sources": [
+      {
+        "label": "미래엔 2022 개정 중학교 국어 3 민병곤",
+        "url": "https://22txbook.m-teacher.co.kr/book/view?id=10048",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
+  },
+  {
+    "id": "kr-2022-middle-3-1-jihak-seohyeok",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 3,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "지학사",
+    "representativeAuthor": "서혁",
+    "title": "중학교 국어 3-1",
+    "units": [],
+    "sources": [
+      {
+        "label": "지학사 2022 개정 중학교 국어 3",
+        "url": "https://textbook.jihak.co.kr/book-mi-kor3.php",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
+  },
+  {
+    "id": "kr-2022-middle-3-2-jihak-seohyeok",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 3,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "지학사",
+    "representativeAuthor": "서혁",
+    "title": "중학교 국어 3-2",
+    "units": [],
+    "sources": [
+      {
+        "label": "지학사 2022 개정 중학교 국어 3",
+        "url": "https://textbook.jihak.co.kr/book-mi-kor3.php",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
   }
 ]
