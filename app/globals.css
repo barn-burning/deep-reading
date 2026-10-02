@@ -259,3 +259,141 @@ input:focus, textarea:focus { border-color: #9fa99f; box-shadow: 0 0 0 3px rgba(
   .conversation-inner { width: calc(100% - 24px); padding-top: 28px; }
   .bubble { font-size: 18px; }
 }
+
+
+/* Notebook direction */
+.landing-shell {
+  background:
+    linear-gradient(rgba(255,255,255,.55), rgba(255,255,255,.55)),
+    repeating-linear-gradient(
+      to bottom,
+      #f7f4ec 0,
+      #f7f4ec 31px,
+      #e9e4d8 32px
+    );
+}
+
+.landing {
+  position: relative;
+  padding-left: 34px;
+}
+
+.landing::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: #d8a3a3;
+  opacity: .7;
+}
+
+.landing h1 {
+  font-size: clamp(38px, 5.4vw, 58px);
+  line-height: 1.2;
+  max-width: 760px;
+  margin-top: 22px;
+}
+
+.lead {
+  max-width: 640px;
+  color: #5d5c55;
+}
+
+.start-card {
+  position: relative;
+  border: 1px solid #d8d2c5;
+  box-shadow: 0 8px 24px rgba(47,45,38,.05);
+  background:
+    linear-gradient(rgba(255,255,255,.92), rgba(255,255,255,.92)),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 31px,
+      #ece7db 32px
+    );
+}
+
+.start-card::before {
+  content: "";
+  position: absolute;
+  left: 26px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: #e1b1b1;
+  opacity: .55;
+  pointer-events: none;
+}
+
+.start-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+.conversation {
+  background:
+    linear-gradient(rgba(251,250,246,.93), rgba(251,250,246,.93)),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 31px,
+      #ece7db 32px
+    );
+}
+
+.conversation-inner {
+  position: relative;
+  padding-left: 34px;
+}
+
+.conversation-inner::before {
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 30px;
+  bottom: 100px;
+  width: 1px;
+  background: #e1b1b1;
+  opacity: .45;
+}
+
+.guide {
+  background: rgba(239,237,229,.82);
+  border-left: 3px solid #aeb7aa;
+}
+
+.user .bubble {
+  background: rgba(244,241,232,.9);
+  border-left: 3px solid #b9b2a2;
+}
+
+.flow-panel {
+  background:
+    linear-gradient(rgba(239,236,228,.94), rgba(239,236,228,.94)),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 31px,
+      #e1ddd2 32px
+    );
+}
+
+.thought-node p {
+  background: rgba(251,250,246,.62);
+  padding: 8px 10px;
+  border-radius: 4px;
+}
+
+@media (max-width: 620px) {
+  .landing {
+    padding-left: 22px;
+  }
+  .conversation-inner {
+    padding-left: 20px;
+  }
+  .conversation-inner::before {
+    left: 2px;
+  }
+}
