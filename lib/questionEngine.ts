@@ -23,6 +23,12 @@ export type ThoughtNode = {
     | "open_question";
 };
 
+export type WorkContext = {
+  title: string;
+  genre?: string;
+  inquiryAxes?: string[];
+};
+
 export type EngineResult = {
   level: Level;
   question: string;
@@ -65,7 +71,17 @@ function summaryOf(text: string) {
   return `${cleaned.slice(0, 72)}…`;
 }
 
-export function nextQuestion(raw: string): EngineResult {
+function axisQuestion(context?: WorkContext) {
+  const axes = context?.inquiryAxes?.slice(0, 3) ?? [];
+  if (!axes.length) {
+    return "지금 해석에 아직 넣어보지 않은 축이 있다면, 표현 방식·시대적 맥락·다른 인물의 관점 중 어디를 더 보고 싶어?";
+  }
+
+  const joined = axes.join(" · ");
+  return `지금까지의 생각에서 한 걸음 더 가본다면, 이 작품의 탐구 축인 ‘${joined}’ 가운데 어떤 쪽을 더 살펴보고 싶어?`;
+}
+
+export function nextQuestion(raw: string, context?: WorkContext): EngineResult {
   const text = compact(raw);
   const level = classifyAnswer(text);
 
@@ -103,7 +119,7 @@ export function nextQuestion(raw: string): EngineResult {
     case "S5":
       return {
         level,
-        question: "지금 해석에 아직 넣어보지 않은 축이 있다면, 표현 방식·시대적 맥락·다른 인물의 관점 중 어디를 더 보고 싶어?",
+        question: axisQuestion(context),
         node: { summary: summaryOf(text), thinkingType: "탐구 확장", status: "hypothesis" },
       };
     case "S6":
@@ -133,6 +149,14 @@ export function nextQuestion(raw: string): EngineResult {
   }
 }
 
-export function firstQuestion() {
-  return "이 작품을 떠올렸을 때, 제일 먼저 남는 건 뭐야? 인물·장면·느낌 중 아무거나 괜찮아.";
+export function firstQuestion(context?: WorkContext) {
+  if (context?.genre === "시") {
+    return "이 작품을 떠올렸을 때 가장 먼저 남는 건 뭐야? 한 표현, 이미지, 느낌 중 아무거나 괜찮아.";
+  }
+
+  if (context?.genre === "소설" || context?.genre === "영상 작품") {
+    return "이 작품을 떠올렸을 때 제일 먼저 남는 건 뭐야? 인물·장면·느낌 중 아무거나 괜찮아.";
+  }
+
+  return "이 작품을 떠올렸을 때, 제일 먼저 남는 건 뭐야? 장면·표현·느낌 중 아무거나 괜찮아.";
 }
