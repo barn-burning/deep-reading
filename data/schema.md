@@ -134,3 +134,22 @@ type UnitStandard = {
 ```
 
 중요: `inferred_unit_alignment`는 공식적인 출판사 교육과정 대응표가 아니라, 공개된 단원명과 교육과정 성취기준의 의미적 대응을 기록한 분석 계층입니다.
+
+
+## work_standard_context (derived)
+
+`textbook_works`와 `unit_standard`를 조인한 파생 관계입니다. 작품 자체에 성취기준을 고정 부여하는 것이 아니라, **특정 교과서·소단원 안에서 어떤 성취기준 맥락에 배치되었는지**를 표현합니다.
+
+```ts
+type WorkStandardContext = {
+  workId: string
+  textbookId: string
+  unitNo: number
+  subunitNo: string
+  standardId: string
+  mappingType: "publisher_explicit" | "inferred_unit_alignment"
+  confidence: "high" | "medium" | "low"
+}
+```
+
+중요: 같은 작품이라도 교과서가 달라지면 다른 성취기준 맥락에 놓일 수 있습니다.
