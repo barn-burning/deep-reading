@@ -1163,9 +1163,15 @@
         "url": "https://www.yes24.com/product/goods/188838142",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
+        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_official"
   },
   {
     "id": "yangbanjeon-park-jiwon",
@@ -1209,9 +1215,15 @@
         "url": "https://www.yes24.com/product/goods/174327117",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
+        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_official"
   },
   {
     "id": "mom-worry-gi-hyeongdo",
@@ -1557,9 +1569,15 @@
         "url": "https://www.yes24.com/product/goods/174327117",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
+        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_official"
   },
   {
     "id": "first-love-go-jaejong",
@@ -1787,6 +1805,12 @@
         "url": "https://fliphtml5.com/jlbkt/ulzw/",
         "sourceType": "official_textbook",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
+        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_official"
@@ -1802,6 +1826,12 @@
         "label": "창비교육 중학교 국어 2-1 공개 교과서",
         "url": "https://fliphtml5.com/jlbkt/ulzw/",
         "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
+        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
+        "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
@@ -1884,10 +1914,10 @@
     "reviewStatus": "verified_official"
   },
   {
-    "id": "heungbu-jeon-anonymous",
-    "title": "흥부전",
-    "author": "작자 미상",
-    "genre": "고전소설",
+    "id": "hyungso-ha-geunchan",
+    "title": "흉소",
+    "author": "하근찬",
+    "genre": "소설",
     "genreGroup": "소설",
     "sources": [
       {
@@ -1900,43 +1930,11 @@
     "reviewStatus": "verified_official"
   },
   {
-    "id": "farewell-jeong-hoon",
-    "title": "별",
-    "author": "정훈",
+    "id": "mind-well-yu-byeongrok",
+    "title": "마음 우물",
+    "author": "유병록",
     "genre": "시",
     "genreGroup": "시",
-    "sources": [
-      {
-        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
-        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
-        "sourceType": "other",
-        "retrievedAt": "2026-10-02"
-      }
-    ],
-    "reviewStatus": "verified_official"
-  },
-  {
-    "id": "tears-of-mule-lee-mun-gu",
-    "title": "얼보다 큰 아홉",
-    "author": "이문구",
-    "genre": "수필",
-    "genreGroup": "수필",
-    "sources": [
-      {
-        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
-        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
-        "sourceType": "other",
-        "retrievedAt": "2026-10-02"
-      }
-    ],
-    "reviewStatus": "verified_official"
-  },
-  {
-    "id": "frog-fun-park-jiwon",
-    "title": "양반전",
-    "author": "박지원",
-    "genre": "고전소설",
-    "genreGroup": "소설",
     "sources": [
       {
         "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
