@@ -6,13 +6,19 @@
     "genre": "시",
     "sources": [
       {
-        "label": "한끝 교과서편 1-1 박현숙 목차",
-        "url": "https://m.yes24.com/Goods/Detail/141228199",
+        "label": "한끝 중학 국어 1-1 교과서편(박현숙) 목차",
+        "url": "https://www.yes24.com/product/goods/141228199",
         "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "국어 교과서 작품 읽기: 중1 시",
+        "url": "https://www.changbi.com/BookDetail?bookid=4473",
+        "sourceType": "publisher",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_official"
+    "reviewStatus": "verified_secondary"
   },
   {
     "id": "one-beloved-star-lee-seongseon",
@@ -21,13 +27,13 @@
     "genre": "시",
     "sources": [
       {
-        "label": "한끝 교과서편 1-1 박현숙 목차",
-        "url": "https://m.yes24.com/Goods/Detail/141228199",
+        "label": "한끝 중학 국어 1-1 교과서편(박현숙) 목차",
+        "url": "https://www.yes24.com/product/goods/141228199",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_official"
+    "reviewStatus": "verified_secondary"
   },
   {
     "id": "clear-sky-hyeondeok",
@@ -35,6 +41,12 @@
     "author": "현덕",
     "genre": "소설",
     "sources": [
+      {
+        "label": "한끝 중학 국어 1-1 교과서편(박현숙) 목차",
+        "url": "https://www.yes24.com/product/goods/141228199",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
       {
         "label": "창비 작품 소개",
         "url": "https://www.changbi.com/BookDetail?bookid=3105",
@@ -51,9 +63,42 @@
     "genre": "소설",
     "sources": [
       {
-        "label": "체크체크 공통편 중학 국어 1-1 목차",
-        "url": "https://www.ypbooks.co.kr/books/202608196727348385",
+        "label": "한끝 중학 국어 1-2 교과서편(박현숙) 목차",
+        "url": "https://www.yes24.com/product/goods/147561215",
         "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "중학교 국어 1-2 자습서(박현숙) 목차",
+        "url": "https://kobic.net/book/bookInfo/view.do?isbn=9791175900158",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "oblique-jeong-hyeonjong",
+    "title": "비스듬히",
+    "author": "정현종",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 1-2 교과서편(박현숙) 목차",
+        "url": "https://www.yes24.com/product/goods/147561215",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "정현종 시선집 비스듬히",
+        "url": "https://www.yes24.com/product/goods/89967116",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "국어 교과서 작품 읽기: 중1 시",
+        "url": "https://www.changbi.com/BookDetail?bookid=4473",
+        "sourceType": "publisher",
         "retrievedAt": "2026-10-02"
       }
     ],
@@ -66,12 +111,39 @@
     "genre": "수필",
     "sources": [
       {
-        "label": "국어 교과서 작품 읽기: 중1 수필·비문학 - 창비",
+        "label": "중학교 국어 1-2 자습서(박현숙) 목차",
+        "url": "https://kobic.net/book/bookInfo/view.do?isbn=9791175900158",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "국어 교과서 작품 읽기: 중1 수필·비문학",
         "url": "https://www.changbi.com/BookDetail?bookid=4474",
         "sourceType": "publisher",
         "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "the-world-of-us-yoon-gaeun",
+    "title": "우리들",
+    "author": "윤가은",
+    "genre": "영상 작품",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 1-2 교과서편(박현숙) 목차",
+        "url": "https://www.yes24.com/product/goods/147561215",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "중학교 국어 1-2 자습서(박현숙) 목차",
+        "url": "https://kobic.net/book/bookInfo/view.do?isbn=9791175900158",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial"
   }
 ]
