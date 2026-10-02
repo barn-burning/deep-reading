@@ -1143,8 +1143,162 @@
         "url": "https://www.yes24.com/product/goods/188838142",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서/평가문제집 목차",
+        "url": "https://sejong.zeropaymall.com/m/goods/content_zoom.asp?guid=974435",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서 상품정보",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "mom-worry-gi-hyeongdo",
+    "title": "엄마 걱정",
+    "author": "기형도",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서/평가문제집 목차",
+        "url": "https://sejong.zeropaymall.com/m/goods/content_zoom.asp?guid=974435",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서 상품정보",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "island-baby-lee-geumyi",
+    "title": "아일랜드 베이비",
+    "author": "이금이",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서/평가문제집 목차",
+        "url": "https://sejong.zeropaymall.com/m/goods/content_zoom.asp?guid=974435",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서 상품정보",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "dog-of-flanders-ouida",
+    "title": "플랜더스의 개",
+    "author": "위다",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서/평가문제집 목차",
+        "url": "https://sejong.zeropaymall.com/m/goods/content_zoom.asp?guid=974435",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서 상품정보",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "late-autumn-bok-hyogeun",
+    "title": "늦가을",
+    "author": "복효근",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서/평가문제집 목차",
+        "url": "https://sejong.zeropaymall.com/m/goods/content_zoom.asp?guid=974435",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서 상품정보",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "song-of-hope-mun-byeongran",
+    "title": "희망가",
+    "author": "문병란",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서/평가문제집 목차",
+        "url": "https://sejong.zeropaymall.com/m/goods/content_zoom.asp?guid=974435",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서 상품정보",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "ordeal-of-two-generations-ha-geunchan",
+    "title": "수난이대",
+    "author": "하근찬",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "출판유통통합전산망 해냄에듀 중학교 국어 2-2 자습서 목차",
+        "url": "https://bnk.kpipa.or.kr/home/v3/addition/adiPromoMetaDataView02/seq_20260630142535250937",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "on-the-mountain-hill-shin-dongyeop",
+    "title": "산에 언덕에",
+    "author": "신동엽",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "출판유통통합전산망 해냄에듀 중학교 국어 2-2 자습서 목차",
+        "url": "https://bnk.kpipa.or.kr/home/v3/addition/adiPromoMetaDataView02/seq_20260630142535250937",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
   }
 ]
