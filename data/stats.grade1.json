@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-10-02",
+  "scope": "2022 개정 중학교 1학년 국어",
+  "textbooks": {
+    "records": 20,
+    "coverageRows": 20,
+    "completedCoverageRows": 20
+  },
+  "works": {
+    "catalogRecords": 53,
+    "mappedRelations": 71,
+    "uniqueMappedWorks": 52,
+    "repeatedWorks": 10
+  },
+  "placementCounts": {
+    "main": 41,
+    "supplementary": 21,
+    "unknown": 9
+  },
+  "mappedRelationsByPublisher": {
+    "비상교육": 14,
+    "지학사": 9,
+    "창비교육": 6,
+    "해냄에듀": 9,
+    "동아출판": 11,
+    "미래엔": 8,
+    "천재교과서": 14
+  },
+  "repeatedWorks": [
+    {
+      "workId": "clear-sky-hyeondeok",
+      "title": "하늘은 맑건만",
+      "author": "현덕",
+      "count": 5
+    },
+    {
+      "workId": "march-oh-gyuwon",
+      "title": "3월",
+      "author": "오규원",
+      "count": 4
+    },
+    {
+      "workId": "monkey-spanner-jin-hyeongmin",
+      "title": "멍키 스패너",
+      "author": "진형민",
+      "count": 4
+    },
+    {
+      "workId": "shower-hwang-sunwon",
+      "title": "소나기",
+      "author": "황순원",
+      "count": 3
+    },
+    {
+      "workId": "ouga-yun-seondo",
+      "title": "오우가",
+      "author": "윤선도",
+      "count": 3
+    },
+    {
+      "workId": "camellia-kim-yujeong",
+      "title": "동백꽃",
+      "author": "김유정",
+      "count": 2
+    },
+    {
+      "workId": "one-beloved-star-lee-seongseon",
+      "title": "사랑하는 별 하나",
+      "author": "이성선",
+      "count": 2
+    },
+    {
+      "workId": "new-road-yun-dongju",
+      "title": "새로운 길",
+      "author": "윤동주",
+      "count": 2
+    },
+    {
+      "workId": "corn-hit-and-run-park-sanggi",
+      "title": "옥수수 뺑소니",
+      "author": "박상기",
+      "count": 2
+    },
+    {
+      "workId": "bicycle-thief-park-wanseo",
+      "title": "자전거 도둑",
+      "author": "박완서",
+      "count": 2
+    }
+  ]
+}
