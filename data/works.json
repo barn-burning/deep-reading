@@ -166,6 +166,12 @@
         "url": "https://mid.only1.co.kr/lecture/lecture_view.asp?lp_idx=139017&menu_depth=sl00101",
         "sourceType": "education_service",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "올리드 중등 국어 2-1 미래엔 신유식 목차",
+        "url": "https://m.yes24.com/goods/detail/163611786",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary",
@@ -760,6 +766,12 @@
         "url": "https://bookstore.visang.com/BookStore_view_new.asp?b_code=BM12664",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-2 목차",
+        "url": "https://www.yes24.com/product/goods/190873328",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary",
@@ -900,6 +912,12 @@
       {
         "label": "지학사 중학교 국어 2-1(서혁) 자습서 목차",
         "url": "https://www.yes24.com/product/goods/174047940",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327315",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
@@ -1155,6 +1173,24 @@
         "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
         "sourceType": "bookstore",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "올리드 중등 국어 2-2 미래엔 신유식 목차",
+        "url": "https://www.yes24.com/product/goods/191918338",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/169902365",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_secondary"
@@ -1281,6 +1317,18 @@
         "url": "https://bnk.kpipa.or.kr/home/v3/addition/adiPromoMetaDataView02/seq_20260630142535250937",
         "sourceType": "official_textbook",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 민병곤 2-2 문학 속의 삶 제재 확인",
+        "url": "https://solvook.com/products/3986745943608263811",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "한끝 중학 국어 2-2 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/191693083",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
       }
     ],
     "reviewStatus": "verified_official"
@@ -1300,5 +1348,369 @@
       }
     ],
     "reviewStatus": "verified_official"
+  },
+  {
+    "id": "warmest-dinner-bok-hyogeun",
+    "title": "세상에서 가장 따뜻했던 저녁",
+    "author": "복효근",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "올리드 중등 국어 2-1 미래엔 신유식 목차",
+        "url": "https://m.yes24.com/goods/detail/163611786",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "poor-love-song-shin-gyeongrim",
+    "title": "가난한 사랑 노래 - 이웃의 한 젊은이를 위하여",
+    "author": "신경림",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "미래엔 민병곤 2-2 문학 속의 삶 제재 확인",
+        "url": "https://solvook.com/products/3986745943608263811",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "train-ran-lee-oksu",
+    "title": "기차가 달려간 곳에는",
+    "author": "이옥수",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박현숙 목차",
+        "url": "https://www.yes24.com/product/goods/169902364",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "fishy-smell-ham-minbok",
+    "title": "비린내라뇨!",
+    "author": "함민복",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박현숙 목차",
+        "url": "https://www.yes24.com/product/goods/169902364",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "daily-bread-yang-gwija",
+    "title": "일용할 양식",
+    "author": "양귀자",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "비상 공식 한끝 중학 국어 2-2 박현숙 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?B_ORDER=A&CateCode=BS0101&MGubun=M&Tab_Code=AC010&b_code=BM13066&gotopage=1",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "heart-shines-shin-suji",
+    "title": "하트가 빛나는 순간",
+    "author": "신수지",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "비상 공식 한끝 중학 국어 2-2 박현숙 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?B_ORDER=A&CateCode=BS0101&MGubun=M&Tab_Code=AC010&b_code=BM13066&gotopage=1",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "chunhyangjeon-anonymous",
+    "title": "춘향전",
+    "author": "작자 미상",
+    "genre": "고전소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "비상 공식 한끝 중학 국어 2-2 박현숙 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?B_ORDER=A&CateCode=BS0101&MGubun=M&Tab_Code=AC010&b_code=BM13066&gotopage=1",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "spring-road-jeong-hoseung",
+    "title": "봄 길",
+    "author": "정호승",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "비상 공식 한끝 중학 국어 2-2 박현숙 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?B_ORDER=A&CateCode=BS0101&MGubun=M&Tab_Code=AC010&b_code=BM13066&gotopage=1",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "tree-dream-son-taeksu",
+    "title": "나무의 꿈",
+    "author": "손택수",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/169902365",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "himalaya-cedar-seong-seokje",
+    "title": "내가 그린 히말라야시다 그림",
+    "author": "성석제",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/169902365",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "distant-future-kim-sowol",
+    "title": "먼 후일",
+    "author": "김소월",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/169902365",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "first-love-go-jaejong",
+    "title": "첫사랑",
+    "author": "고재종",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/169902365",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "evening-harbor-ham-giseok",
+    "title": "저녁 항구",
+    "author": "함기석",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "willow-hongrang",
+    "title": "산버들 가리어 꺾어",
+    "author": "홍랑",
+    "genre": "시조",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "soccer-ball-cheering-stick-jo-gyumi",
+    "title": "축구공과 응원 봉",
+    "author": "조규미",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "guest-and-mother-ju-yoseop",
+    "title": "사랑손님과 어머니",
+    "author": "주요섭",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "camel-lee-janggeun",
+    "title": "낙타",
+    "author": "이장근",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "face-side-dish-gong-gwanggyu",
+    "title": "얼굴 반찬",
+    "author": "공광규",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-2 목차",
+        "url": "https://www.yes24.com/product/goods/190873588",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "strawberry-lee-jaemu",
+    "title": "딸기",
+    "author": "이재무",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327315",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "cornille-secret-daudet",
+    "title": "코르니유 영감님의 비밀",
+    "author": "알퐁스 도데",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327315",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "flower-thicket-shin-seokjeong",
+    "title": "꽃덤불",
+    "author": "신석정",
+    "genre": "시",
+    "genreGroup": "시",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-2 목차",
+        "url": "https://www.yes24.com/product/goods/190873328",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "apartment-sherpa-lee-giho",
+    "title": "아파트먼트 셰르파",
+    "author": "이기호",
+    "genre": "소설",
+    "genreGroup": "소설",
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-2 목차",
+        "url": "https://www.yes24.com/product/goods/190873328",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
   }
 ]
