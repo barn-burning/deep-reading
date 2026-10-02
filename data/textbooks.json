@@ -2228,5 +2228,986 @@
       }
     ],
     "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-2-1-donga-namgungmin",
+    "publisher": "동아출판",
+    "representativeAuthor": "남궁민",
+    "semester": 1,
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "생각을 키우는 소통",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "효과적으로 듣고 말하기"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "전략적으로 읽기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "밀크T 중2-1 국어 동아 남궁민 강의목차",
+        "url": "https://m.mid.milkt.co.kr/MyStudy/MyStudyCourseInfoList?strClectureCode=S01692502001D001",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-2-donga-namgungmin",
+    "publisher": "동아출판",
+    "representativeAuthor": "남궁민",
+    "semester": 2,
+    "title": "중학교 국어 2-2",
+    "units": [],
+    "sources": [
+      {
+        "label": "강남인강 동아 남궁민 2-2 강좌/교재 확인",
+        "url": "https://edu.ingang.go.kr/NGLMS/1407/middleView?classCd=L50103&lectureCd=KIL0015907",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "partial",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-1-miraen-shinyusik",
+    "publisher": "미래엔",
+    "representativeAuthor": "신유식",
+    "semester": 1,
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "목소리와 시선을 따라서",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "세상에서 가장 따뜻했던 저녁"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "멍키 스패너"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "설명과 논증의 세계",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "설명과 논증 파악하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "설명하는 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "정확하게, 자신감 있게",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "자신감 있는 발표"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "생각이 자라는 시간",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "매체로 만나는 세상"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "따져 보며 바르게 읽기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "올리드 중등 국어 2-1 미래엔 신유식 목차",
+        "url": "https://m.yes24.com/goods/detail/163611786",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-2-miraen-shinyusik",
+    "publisher": "미래엔",
+    "representativeAuthor": "신유식",
+    "semester": 2,
+    "title": "중학교 국어 2-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "삶을 읽고 마음을 나누며",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "양반전"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "마음을 잇는 대화"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "스스로 읽고 쓰는 힘",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "점검하고 조정하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "짜임새 있는 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "우리말, 우리글",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "국어의 음운 체계"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "국어의 문자 체계"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "소중한 경험, 빛나는 표현",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "소중한 경험, 빛나는 표현"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "올리드 중등 국어 2-2 미래엔 신유식 목차",
+        "url": "https://www.yes24.com/product/goods/191918338",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-1-miraen-minbyeonggon",
+    "publisher": "미래엔",
+    "representativeAuthor": "민병곤",
+    "semester": 1,
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "문학 속 목소리",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "시의 화자"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "소설의 서술자"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "적절하고 타당하게",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "설명 방법 활용하여 쓰기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "타당성 평가하며 읽기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "국어의 체계와 소통",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "음운 체계와 문자 체계"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "효과적으로 발표하고 듣기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "개성적으로, 빛나게",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "개성적인 발상과 표현"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "영상 매체 자료 제작하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "올리드 중등 국어 2-1 미래엔 민병곤 목차",
+        "url": "https://www.yes24.com/product/goods/163648010",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-2-miraen-minbyeonggon",
+    "publisher": "미래엔",
+    "representativeAuthor": "민병곤",
+    "semester": 2,
+    "title": "중학교 국어 2-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "공감과 이해",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "공감하며 대화하기"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "문학 속의 삶"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "복합양식으로 소통하기",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "글과 자료 평가하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "복합양식 자료를 활용하여 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "상황에 맞는 표현",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "갈등을 조정하는 대화"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "읽고 분석하고",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "점검하고 조정하며 읽기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "현실을 재현하는 매체 자료"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "올리드 중등 국어 2-2 미래엔 민병곤 목차",
+        "url": "https://www.yes24.com/product/goods/191919241",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 민병곤 2-2 문학 속의 삶 제재 확인",
+        "url": "https://solvook.com/products/3986745943608263811",
+        "sourceType": "education_service",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-1-visang-parkhyunsook",
+    "publisher": "비상교육",
+    "representativeAuthor": "박현숙",
+    "semester": 1,
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "능동적으로 읽는 힘",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "읽기 과정의 점검과 조정"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "문학 속 말하는 이나 보는 이"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "표현을 바라보는 다양한 시선",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "매체 자료의 재현 방식"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "설명과 논리로 나누는 생각",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "설명 방법과 논증 방법"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "설명하는 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "소통하며 성장하는 우리",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "듣기·말하기 과정의 점검과 조정"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "효과적으로 발표하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박현숙 목차",
+        "url": "https://www.yes24.com/product/goods/169902364",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-2-visang-parkhyunsook",
+    "publisher": "비상교육",
+    "representativeAuthor": "박현숙",
+    "semester": 2,
+    "title": "중학교 국어 2-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "함께 살아가는 즐거움",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "사회를 비추는 문학"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "공감하고 조정하는 대화"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "빛나는 우리 말글살이",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "한글의 원리와 가치"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "음운의 체계"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "세상을 담아내는 창",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "복합양식의 글과 자료 읽기"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "복합양식 자료를 활용한 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "창의적인 발상, 표현하는 재미",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "반어, 풍자, 역설 표현"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "영상 매체 자료 제작하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "비상 공식 한끝 중학 국어 2-2 박현숙 목차",
+        "url": "https://bookstore.visang.com/BookStore_view_new.asp?B_ORDER=A&CateCode=BS0101&MGubun=M&Tab_Code=AC010&b_code=BM13066&gotopage=1",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-1-visang-parkyoungmin",
+    "publisher": "비상교육",
+    "representativeAuthor": "박영민",
+    "semester": 1,
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "세상을 향한 시선과 목소리",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "보는 이와 말하는 이"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "경청하고 공감하며 대화하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "예리하게 읽고, 배려하며 쓰고",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "이해하고 비판하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "설명 방법을 활용하여 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "우리가 소통하는 방법",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "우리말과 우리글"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "두근두근 발표"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "의미 있는 경험, 나만의 표현",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "개성적으로 발상하고 표현하기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "영상 매체 자료 제작하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-1 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/169902365",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-2-visang-parkyoungmin",
+    "publisher": "비상교육",
+    "representativeAuthor": "박영민",
+    "semester": 2,
+    "title": "중학교 국어 2-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "나의 즐거운 국어생활",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "똑똑하게 글 읽기"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "복합양식 자료를 활용하여 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "서로를 잇는 이해와 소통",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "세상을 담은 문학"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "진솔하게 표현하며 갈등 조정하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "세상과 주고받는 말과 글",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "상황에 맞게 문법 요소 활용하기"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "점검하고 조정하며 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "매체로 보는 세상",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "매체 환경에서 바르게 읽기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "현실을 재현하는 매체 자료 분석하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "한끝 중학 국어 2-2 교과서편 박영민 목차",
+        "url": "https://www.yes24.com/product/goods/191693083",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-1-chunjae-nomisuk",
+    "publisher": "천재교과서",
+    "representativeAuthor": "노미숙",
+    "semester": 1,
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "문학을 펼치면",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "시의 목소리"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "이야기 속 시선"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "소통으로 여는 세상",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "공감하고 존중하며 대화하기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "피동 표현과 인용 표현 활용하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "나와 세상의 연결 고리",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "점검·조정하며 글 읽기"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "설명하는 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "표현의 빛깔",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "개성적인 발상과 표현"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "영상 매체 자료 만들기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327117",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-2-chunjae-nomisuk",
+    "publisher": "천재교과서",
+    "representativeAuthor": "노미숙",
+    "semester": 2,
+    "title": "중학교 국어 2-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "세상과 만나는 시간",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "문학, 시대의 거울"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "이해하기 쉽게 발표하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "분석의 즐거움",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "설명과 논증이 담긴 글 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "광고와 홍보물 분석하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "탐구하고 성찰하는 언어생활",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "국어의 음운과 문자"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "듣기·말하기 성찰하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "다채로운 글의 세계",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "복합양식 평가하며 읽기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "복합양식 활용하여 글 쓰기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 노미숙 2-2 목차",
+        "url": "https://www.yes24.com/product/goods/190873588",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-1-chunjae-jeonghowoong",
+    "publisher": "천재교과서",
+    "representativeAuthor": "정호웅",
+    "semester": 1,
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "보는 이와 말하는 이",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "시의 화자"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "소설의 시점과 서술자"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "설명과 이해",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "설명하는 글 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "점검·조정하며 설명하는 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "상황에 맞는 표현",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "마음을 나누는 대화"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-1 목차",
+        "url": "https://www.yes24.com/product/goods/174327315",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
+  },
+  {
+    "id": "kr-2022-middle-2-2-chunjae-jeonghowoong",
+    "publisher": "천재교과서",
+    "representativeAuthor": "정호웅",
+    "semester": 2,
+    "title": "중학교 국어 2-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "세상을 담은 글",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "문학과 사회"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "복합양식 자료를 활용하여 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "점검하고 조정하고",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "점검·조정하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "점검·조정하며 발표하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "음운 체계와 문자 체계",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "우리말의 음운 체계"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "한글의 창제 정신과 원리"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "논증과 매체",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "디지털 격차를 줄여야 한다"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "복합양식의 글과 매체 자료"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "체크체크 중학 국어 천재 정호웅 2-2 목차",
+        "url": "https://www.yes24.com/product/goods/190873328",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "subject": "국어"
   }
 ]
