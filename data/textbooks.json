@@ -2136,6 +2136,12 @@
     ],
     "sources": [
       {
+        "label": "창비교육 중학교 국어 2-1 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/ulzw/",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      },
+      {
         "label": "창비교육 중학교 국어 2-1 평가문제집 공식 차례",
         "url": "https://textbook.changbiedu.com/Home/BookDetail?bookid=2301",
         "sourceType": "publisher",
@@ -2221,13 +2227,19 @@
     ],
     "sources": [
       {
+        "label": "창비교육 중학교 국어 2-2 공개 교과서",
+        "url": "https://fliphtml5.com/jlbkt/tayh/",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      },
+      {
         "label": "창비교육 중학교 국어 2-2 자습서 목차",
         "url": "https://www.yes24.com/product/goods/192469400",
         "sourceType": "reference_book",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_official"
   },
   {
     "id": "kr-2022-middle-2-1-donga-namgungmin",
@@ -2271,16 +2283,49 @@
     "representativeAuthor": "남궁민",
     "semester": 2,
     "title": "중학교 국어 2-2",
-    "units": [],
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "말과 글 속의 풍경",
+        "domains": [
+          "듣기·말하기",
+          "문학"
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "디지털 시대의 읽기와 쓰기",
+        "domains": [
+          "읽기",
+          "쓰기"
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "체계적인 의사소통",
+        "domains": [
+          "문법",
+          "듣기·말하기"
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "창의적인 발상과 표현",
+        "domains": [
+          "문학",
+          "매체"
+        ]
+      }
+    ],
     "sources": [
       {
-        "label": "강남인강 동아 남궁민 2-2 강좌/교재 확인",
-        "url": "https://edu.ingang.go.kr/NGLMS/1407/middleView?classCd=L50103&lectureCd=KIL0015907",
-        "sourceType": "education_service",
+        "label": "KOBIC 동아출판 중학 국어 2-2 자습서(남궁민) 목차",
+        "url": "https://kobic.net/book/bookInfo/view.do?isbn=9788900491418",
+        "sourceType": "official_textbook",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "partial",
+    "reviewStatus": "verified_official",
     "curriculum": "2022 개정",
     "schoolLevel": "middle",
     "grade": 2,
@@ -2507,6 +2552,18 @@
         "label": "올리드 중등 국어 2-1 미래엔 민병곤 목차",
         "url": "https://www.yes24.com/product/goods/163648010",
         "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "KOBIC 미래엔 중학 국어 2-1 평가문제집(민병곤) 서지/목차",
+        "url": "https://kobic.net/book/bookInfo/view.do?isbn=9791175480094",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "미래엔 평가문제집 중등 국어 2-1(민병곤) 상세 목차",
+        "url": "https://dap1004.com/blog/2026/07/11/%ED%8F%89%EA%B0%80%EB%AC%B8%EC%A0%9C%EC%A7%91-%EC%A4%91%EB%93%B1-%EA%B5%AD%EC%96%B42-1%EB%AF%BC%EB%B3%91%EA%B3%A4-22-%EA%B0%9C%EC%A0%95-%EB%8B%B5%EC%A7%80/",
+        "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
