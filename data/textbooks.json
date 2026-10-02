@@ -2261,6 +2261,48 @@
             "title": "전략적으로 읽기"
           }
         ]
+      },
+      {
+        "unitNo": 2,
+        "title": "나와 너의 세상 보기",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "시와 화자"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "소설과 서술자"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "의도가 담긴 말과 글",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "매체 자료 분석하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "생각하고 설명하는 힘",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "논증 방법 평가하며 읽기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "설명 방법 고려하며 읽고 쓰기"
+          }
+        ]
       }
     ],
     "sources": [
@@ -2269,9 +2311,15 @@
         "url": "https://m.mid.milkt.co.kr/MyStudy/MyStudyCourseInfoList?strClectureCode=S01692502001D001",
         "sourceType": "education_service",
         "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "사용자 제공 동아출판 중학교 국어 2-1 차례 이미지",
+        "url": "conversation-file:file_0000000040e0820699f645e557b23481",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "partial",
+    "reviewStatus": "verified_official",
     "curriculum": "2022 개정",
     "schoolLevel": "middle",
     "grade": 2,
@@ -2287,33 +2335,61 @@
       {
         "unitNo": 1,
         "title": "말과 글 속의 풍경",
-        "domains": [
-          "듣기·말하기",
-          "문학"
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "갈등을 조정하는 대화"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "문학에 비친 세상"
+          }
         ]
       },
       {
         "unitNo": 2,
         "title": "디지털 시대의 읽기와 쓰기",
-        "domains": [
-          "읽기",
-          "쓰기"
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "매체 자료 평가하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "다양한 자료 활용하여 쓰기"
+          }
         ]
       },
       {
         "unitNo": 3,
         "title": "체계적인 의사소통",
-        "domains": [
-          "문법",
-          "듣기·말하기"
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "음운과 문자의 체계"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "청중을 고려하여 발표하기"
+          }
         ]
       },
       {
         "unitNo": 4,
         "title": "창의적인 발상과 표현",
-        "domains": [
-          "문학",
-          "매체"
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "반어와 역설의 맛"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "풍자의 재미"
+          },
+          {
+            "subunitNo": "4-3",
+            "title": "영상으로 만나는 세상"
+          }
         ]
       }
     ],
@@ -2322,6 +2398,12 @@
         "label": "KOBIC 동아출판 중학 국어 2-2 자습서(남궁민) 목차",
         "url": "https://kobic.net/book/bookInfo/view.do?isbn=9788900491418",
         "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "사용자 제공 동아출판 중학교 국어 2-2 차례 이미지",
+        "url": "conversation-file:file_00000000d00c82098ac88a1636dda226",
+        "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
