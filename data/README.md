@@ -16,6 +16,8 @@
 - `works.json`: 작품 자체의 최소 서지 메타데이터
 - `textbook_works.csv`: 교과서 ↔ 작품 수록 관계
 - `schema.md`: 장기 데이터 모델 초안
+- `curriculum_standards.json`: 2022 개정 중학교 문학 성취기준
+- `unit_standards.csv`: 교과서 소단원 ↔ 성취기준 대응(공식 명시/추론 구분)
 
 ## 검수 상태
 
