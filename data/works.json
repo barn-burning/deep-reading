@@ -36,7 +36,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "one-beloved-star-lee-seongseon",
@@ -57,7 +58,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "clear-sky-hyeondeok",
@@ -91,12 +93,6 @@
       },
       {
         "label": "창비교육 중학교 국어 1-2 공개 교과서",
-        "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
-        "sourceType": "other",
-        "retrievedAt": "2026-10-02"
-      },
-      {
-        "label": "창비교육 중학교 국어 1-2 공개 교과서",
         "url": "https://fliphtml5.com/ukmkq/nxef/",
         "sourceType": "other",
         "retrievedAt": "2026-10-02"
@@ -120,7 +116,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "monkey-spanner-jin-hyeongmin",
@@ -154,12 +151,6 @@
       },
       {
         "label": "창비교육 중학교 국어 1-1 공개 교과서",
-        "url": "https://fliphtml5.com/jjvh/qhdj/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-1_%EA%B5%90%EA%B3%BC%EC%84%9C/",
-        "sourceType": "other",
-        "retrievedAt": "2026-10-02"
-      },
-      {
-        "label": "창비교육 중학교 국어 1-1 공개 교과서",
         "url": "https://fliphtml5.com/jjvh/qhdj/",
         "sourceType": "other",
         "retrievedAt": "2026-10-02"
@@ -177,7 +168,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "oblique-jeong-hyeonjong",
@@ -210,7 +202,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "four-seasons-santa-kim-jiwon",
@@ -237,7 +230,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "the-world-of-us-yoon-gaeun",
@@ -264,7 +258,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "partial"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "영상"
   },
   {
     "id": "our-two-kim-junhyeon",
@@ -285,7 +280,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "meteor-oh-seyeong",
@@ -300,7 +296,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "ouga-yun-seondo",
@@ -327,7 +324,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "little-prince-saint-exupery",
@@ -342,7 +340,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "kieuk-jang-giha",
@@ -357,7 +356,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "노랫말"
   },
   {
     "id": "extraordinary-attorney-woo-moon-jiwon",
@@ -372,7 +372,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "영상"
   },
   {
     "id": "lock-clicks-open-jo-jaedo",
@@ -387,7 +388,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "starlit-night-na-taeju",
@@ -397,12 +399,13 @@
     "sources": [
       {
         "label": "창비교육 중학교 국어 1-1 공개 교과서",
-        "url": "https://fliphtml5.com/jjvh/qhdj/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-1_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "url": "https://fliphtml5.com/jjvh/qhdj/",
         "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "well-prepared-words-lee-haein",
@@ -412,12 +415,13 @@
     "sources": [
       {
         "label": "창비교육 중학교 국어 1-1 공개 교과서",
-        "url": "https://fliphtml5.com/jjvh/qhdj/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-1_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "url": "https://fliphtml5.com/jjvh/qhdj/",
         "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "secret-zoo-son-jaegon",
@@ -427,12 +431,13 @@
     "sources": [
       {
         "label": "창비교육 중학교 국어 1-2 공개 교과서",
-        "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "url": "https://fliphtml5.com/ukmkq/nxef/",
         "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "영상"
   },
   {
     "id": "jump-rope-seong-nayeon",
@@ -442,12 +447,13 @@
     "sources": [
       {
         "label": "창비교육 중학교 국어 1-2 공개 교과서",
-        "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "url": "https://fliphtml5.com/ukmkq/nxef/",
         "sourceType": "other",
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "영상"
   },
   {
     "id": "cockscomb-kim-seonu",
@@ -462,7 +468,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "farewell-stone-wall-kim-bonggun",
@@ -477,7 +484,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "one-briquette-ahn-dohyun",
@@ -492,7 +500,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "beautiful-scar-lee-cheongjun",
@@ -507,7 +516,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "baby-general-uturi-anonymous",
@@ -522,7 +532,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "설화"
   },
   {
     "id": "curtain-call-jo-uri",
@@ -543,7 +554,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "one-day-bicycle-entered-my-life-seong-seokje",
@@ -558,7 +570,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "i-can-speak-kang-yoo",
@@ -579,7 +592,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "영상"
   },
   {
     "id": "new-road-yun-dongju",
@@ -594,7 +608,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "shower-hwang-sunwon",
@@ -621,7 +636,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "shedding-skin-francisco-jimenez",
@@ -642,7 +658,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "said-backwards-jang-cheolmun",
@@ -663,7 +680,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "gift-seong-seokje",
@@ -684,7 +702,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "its-okay-jang-younghee",
@@ -705,7 +724,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "bicycle-thief-park-wanseo",
@@ -726,7 +746,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "hong-gildong-jeon-heo-gyun",
@@ -741,7 +762,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "after-repairing-house-yi-gyubo",
@@ -756,7 +778,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "search-not-search-lee-o-young",
@@ -771,7 +794,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "hoo-hoo-hoo-seong-mijeong",
@@ -792,7 +816,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "my-name-is-baekseok-yu-eunsil",
@@ -807,7 +832,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "corn-hit-and-run-park-sanggi",
@@ -834,7 +860,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "road-kim-jongsang",
@@ -849,7 +876,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "camellia-kim-yujeong",
@@ -870,7 +898,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "spring-morning-choi-ilhwan",
@@ -885,7 +914,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "bluebird-maeterlinck",
@@ -900,7 +930,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "희곡"
   },
   {
     "id": "i-am-bori-kim-jinyou",
@@ -915,22 +946,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
-  },
-  {
-    "id": "beautiful-meteor-ebs",
-    "title": "아름다운 별똥별의 비밀",
-    "author": "EBS 오디오 콘텐츠 팀",
-    "genre": "비문학",
-    "sources": [
-      {
-        "label": "한끝 중학 국어 1-2 교과서편(박영민) 목차",
-        "url": "https://www.yes24.com/product/goods/147561231",
-        "sourceType": "reference_book",
-        "retrievedAt": "2026-10-02"
-      }
-    ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "영상"
   },
   {
     "id": "bachelor-fetch-fortune-anonymous",
@@ -945,7 +962,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "설화"
   },
   {
     "id": "star-plucking-na-heedeok",
@@ -960,7 +978,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "nature-great-teacher-kim-hagyeong",
@@ -975,7 +994,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "수필"
   },
   {
     "id": "want-to-eat-watermelon-jang-jusik",
@@ -990,7 +1010,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "tomorrow-to-tomorrow-kim-seonyeong",
@@ -1005,7 +1026,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "paper-tile-lee-jungwan",
@@ -1020,7 +1042,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "시"
   },
   {
     "id": "four-pm-dalgona-lee-songhyeon",
@@ -1035,7 +1058,8 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   },
   {
     "id": "long-long-night-ruri",
@@ -1050,6 +1074,7 @@
         "retrievedAt": "2026-10-02"
       }
     ],
-    "reviewStatus": "verified_secondary"
+    "reviewStatus": "verified_secondary",
+    "genreGroup": "소설"
   }
 ]
