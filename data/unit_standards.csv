@@ -24,3 +24,5 @@ textbook_id,unit_no,subunit_no,standard_id,mapping_type,confidence,basis
 "kr-2022-middle-1-1-chunjae-nomisuk","4","4-1","9국05-02","inferred_unit_alignment","high","소단원명이 문학 갈등을 직접 다룸"
 "kr-2022-middle-2-1-jihak-seohyeok","1","1-1","9국05-04","inferred_unit_alignment","high","소단원명이 화자·서술자·시점 요소를 직접 다룸"
 "kr-2022-middle-2-1-jihak-seohyeok","1","1-2","9국05-04","inferred_unit_alignment","high","소단원명이 화자·서술자·시점 요소를 직접 다룸"
+"kr-2022-middle-2-1-haenaem-kangyanghee","1","1-1","9국05-04","inferred_unit_alignment","high","소단원명이 화자와 서술자를 직접 다룸"
+"kr-2022-middle-2-1-changbi-leedoyoung","1","1-1","9국05-04","inferred_unit_alignment","high","소단원명이 보는 이나 말하는 이를 직접 다룸"
