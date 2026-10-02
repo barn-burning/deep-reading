@@ -350,5 +350,216 @@
       }
     ],
     "reviewStatus": "verified_official"
+  },
+  {
+    "id": "kr-2022-middle-1-1-changbi-leedoyoung",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "창비교육",
+    "representativeAuthor": "이도영",
+    "title": "중학교 국어 1-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "오늘부터 우리는",
+        "domains": [
+          "문학",
+          "쓰기"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "운율, 비유, 상징"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "진솔하게 표현하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "간결하게, 정확하게",
+        "domains": [
+          "읽기",
+          "쓰기"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "요약하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "자료를 활용하여 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "마음이 자라는 시간",
+        "domains": [
+          "문학",
+          "듣기·말하기"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "성장하는 우리"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "존중하며 말하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "우리 여기서 만날까",
+        "domains": [
+          "문법",
+          "매체"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "어휘의 양상과 쓰임"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "상호 작용적 매체 이해하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "창비교육 2022 개정 중학교 국어 교과서 목록",
+        "url": "https://textbook.changbiedu.com/Home/Books?te1=1&te2=100&te4=200&te5=100",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 1-1 평가 문제집 목차",
+        "url": "https://www.yes24.com/product/goods/141129535",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 1-1 공개 교과서",
+        "url": "https://fliphtml5.com/jjvh/qhdj/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-1_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-1-2-changbi-leedoyoung",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 1,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "창비교육",
+    "representativeAuthor": "이도영",
+    "title": "중학교 국어 1-2",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "네 마음이 궁금해",
+        "domains": [
+          "듣기·말하기",
+          "읽기"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "추론하며 듣기"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "추론하며 읽기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "부딪히며 나아간다",
+        "domains": [
+          "문학",
+          "듣기·말하기"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "삶과 갈등"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "토의로 문제 해결하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "너와 나, 우리의 말들",
+        "domains": [
+          "문법"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "품사의 종류와 특성"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "단어의 짜임과 새말"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "나도 할 말 있어",
+        "domains": [
+          "쓰기",
+          "매체"
+        ],
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "근거를 들어 글 쓰기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "대중 매체와 개인 인터넷 방송"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "창비교육 2022 개정 중학교 국어 교과서 목록",
+        "url": "https://textbook.changbiedu.com/Home/Books?te1=1&te2=100&te4=200&te5=100",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 1-2 자습서",
+        "url": "https://www.yes24.com/product/goods/147626511",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 1-2 공개 교과서",
+        "url": "https://fliphtml5.com/ukmkq/nxef/%5B%EC%B0%BD%EB%B9%84%EA%B5%90%EC%9C%A1%5D_%EC%A4%91%ED%95%99%EA%B5%90_%EA%B5%AD%EC%96%B4_1-2_%EA%B5%90%EA%B3%BC%EC%84%9C/",
+        "sourceType": "other",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
   }
 ]
