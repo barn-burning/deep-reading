@@ -1,0 +1,77 @@
+[
+  {
+    "id": "march-oh-gyuwon",
+    "title": "3월",
+    "author": "오규원",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "한끝 교과서편 1-1 박현숙 목차",
+        "url": "https://m.yes24.com/Goods/Detail/141228199",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "one-beloved-star-lee-seongseon",
+    "title": "사랑하는 별 하나",
+    "author": "이성선",
+    "genre": "시",
+    "sources": [
+      {
+        "label": "한끝 교과서편 1-1 박현숙 목차",
+        "url": "https://m.yes24.com/Goods/Detail/141228199",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "clear-sky-hyeondeok",
+    "title": "하늘은 맑건만",
+    "author": "현덕",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "창비 작품 소개",
+        "url": "https://www.changbi.com/BookDetail?bookid=3105",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "monkey-spanner-jin-hyeongmin",
+    "title": "멍키 스패너",
+    "author": "진형민",
+    "genre": "소설",
+    "sources": [
+      {
+        "label": "체크체크 공통편 중학 국어 1-1 목차",
+        "url": "https://www.ypbooks.co.kr/books/202608196727348385",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "four-seasons-santa-kim-jiwon",
+    "title": "탑차를 끄는 사계절의 산타",
+    "author": "김지원",
+    "genre": "수필",
+    "sources": [
+      {
+        "label": "국어 교과서 작품 읽기: 중1 수필·비문학 - 창비",
+        "url": "https://www.changbi.com/BookDetail?bookid=4474",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  }
+]
