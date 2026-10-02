@@ -1893,5 +1893,340 @@
       }
     ],
     "reviewStatus": "verified_official"
+  },
+  {
+    "id": "kr-2022-middle-2-1-haenaem-kangyanghee",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "해냄에듀",
+    "representativeAuthor": "강양희",
+    "title": "중학교 국어 2-1",
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "시선과 공감",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "화자와 서술자"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "공감하며 대화하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "적절한 표현, 정확한 읽기",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "점검·조정하며 읽기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "정보를 담고 정보를 펼치고",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "설명 방법 파악하며 읽기"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "설명 방법 활용하여 글쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "개성 있고 참신하게",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "반어와 역설"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "문학 속 풍자"
+          },
+          {
+            "subunitNo": "4-3",
+            "title": "영상 매체 자료 제작하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서/평가문제집 목차",
+        "url": "https://sejong.zeropaymall.com/m/goods/content_zoom.asp?guid=974435",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "해냄에듀 중학교 국어 2-1 자습서 상품정보",
+        "url": "https://m.gsshop.com/prd/prd.gs?prdid=1106603537",
+        "sourceType": "bookstore",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
+  },
+  {
+    "id": "kr-2022-middle-2-2-haenaem-kangyanghee",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "해냄에듀",
+    "representativeAuthor": "강양희",
+    "title": "중학교 국어 2-2",
+    "pages": 356,
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "사람과 세상을 이해하는 힘",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "세상을 그려 낸 문학"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "갈등을 조정하는 대화"
+          },
+          {
+            "subunitNo": "1-3",
+            "title": "삶과 만나는 책 읽기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "아름다운 우리 말과 글",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "국어의 음운 체계"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "국어의 문자 체계"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "매체로 세상과 소통하기",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "복합양식 자료 읽기"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "복합양식 자료 활용하여 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "논리 찾기, 자신 있게 말하기",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "논증 방법 파악하며 읽기"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "이해하기 쉽게 발표하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "출판유통통합전산망 해냄에듀 중학교 국어 2-2 자습서 목차",
+        "url": "https://bnk.kpipa.or.kr/home/v3/addition/adiPromoMetaDataView02/seq_20260630142535250937",
+        "sourceType": "official_textbook",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "kr-2022-middle-2-1-changbi-leedoyoung",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "semester": 1,
+    "subject": "국어",
+    "publisher": "창비교육",
+    "representativeAuthor": "이도영",
+    "title": "중학교 국어 2-1",
+    "pages": 304,
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "전하는 마음, 듣는 마음",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "보는 이나 말하는 이"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "점검·조정하며 듣고 말하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "생각의 다리를 놓다",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "설명 방법과 논증 방법을 파악하며 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "설명 방법을 활용하여 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "너를 향한 정확한 한 걸음",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "음운 체계와 문자 체계"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "청중이 이해하기 쉽게 발표하기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "우리가 펼치는 이야기",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "개성적인 발상과 표현"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "영상 매체 자료 제작하기"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 2-1 평가문제집 공식 차례",
+        "url": "https://textbook.changbiedu.com/Home/BookDetail?bookid=2301",
+        "sourceType": "publisher",
+        "retrievedAt": "2026-10-02"
+      },
+      {
+        "label": "창비교육 중학교 국어 2-1 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/173240721",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_official"
+  },
+  {
+    "id": "kr-2022-middle-2-2-changbi-leedoyoung",
+    "curriculum": "2022 개정",
+    "schoolLevel": "middle",
+    "grade": 2,
+    "semester": 2,
+    "subject": "국어",
+    "publisher": "창비교육",
+    "representativeAuthor": "이도영",
+    "title": "중학교 국어 2-2",
+    "pages": 300,
+    "units": [
+      {
+        "unitNo": 1,
+        "title": "새로운 세상을 만나며",
+        "subunits": [
+          {
+            "subunitNo": "1-1",
+            "title": "점검·조정하며 읽기"
+          },
+          {
+            "subunitNo": "1-2",
+            "title": "삶을 담은 문학"
+          }
+        ]
+      },
+      {
+        "unitNo": 2,
+        "title": "다양하게, 다채롭게",
+        "subunits": [
+          {
+            "subunitNo": "2-1",
+            "title": "복합양식 글 읽기"
+          },
+          {
+            "subunitNo": "2-2",
+            "title": "복합양식 자료를 활용하여 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 3,
+        "title": "내 마음을 눌러 담아",
+        "subunits": [
+          {
+            "subunitNo": "3-1",
+            "title": "피동 표현과 인용 표현"
+          },
+          {
+            "subunitNo": "3-2",
+            "title": "점검·조정하며 글 쓰기"
+          }
+        ]
+      },
+      {
+        "unitNo": 4,
+        "title": "서로를 비추는 시간",
+        "subunits": [
+          {
+            "subunitNo": "4-1",
+            "title": "원만한 관계를 위한 대화"
+          },
+          {
+            "subunitNo": "4-2",
+            "title": "매체 자료의 재현 방식"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "창비교육 중학교 국어 2-2 자습서 목차",
+        "url": "https://www.yes24.com/product/goods/192469400",
+        "sourceType": "reference_book",
+        "retrievedAt": "2026-10-02"
+      }
+    ],
+    "reviewStatus": "verified_secondary"
   }
 ]
